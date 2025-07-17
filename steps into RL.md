@@ -1,12 +1,12 @@
 # Reinforcement Learning
 
-* 【强化学习】https://www.bilibili.com/video/BV1r3411Q7Rr?vd_source=5002bb146c6f86977323df7568cda7ca
+* [RL]https://www.bilibili.com/video/BV1r3411Q7Rr?vd_source=5002bb146c6f86977323df7568cda7ca
 
-![image-20250717071540812](.\fig\image-20250717071540812.png)
+<img src=".\fig\image-20250717144807205.png" style="zoom:80%;" />
 
 # Basic Concepts
 
-![image-20250717075811032](.\fig\image-20250717075811032.png)
+<img src=".\fig\image-20250717144937547.png" style="zoom: 67%;" />
 
 - **State: ** The status of the agent with respect to the environment (locations, ...)
 
@@ -18,7 +18,7 @@
 
 - **state transition: ** moving from one state to another, e.g. $s_1 \xrightarrow{a_i}s_2$  
 
-![image-20250717082031867](.\fig\image-20250717082031867.png)
+<img src=".\fig\image-20250717145048887.png" style="zoom: 33%;" />
 
 ​	(Tabular representation, probability representation)
 
@@ -33,7 +33,7 @@ $$
 
 - **Policy:**  tell the agent what actions to take at a state
 
-![image-20250717083117947](.\fig\image-20250717083117947.png)
+<img src=".\fig\image-20250717083117947.png" alt="image-20250717083117947" style="zoom:50%;" />
 
 ​	Mathematical Representation Using conditional probability.
 
